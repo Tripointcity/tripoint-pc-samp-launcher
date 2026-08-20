@@ -1,7 +1,7 @@
 {
-    "versionName":  "0.1.1-beta",
-    "versionCode":  2,
-    "exeUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.1.1-beta/Tripoint-pc-release.zip",
+    "versionName":  "0.1.2-beta",
+    "versionCode":  3,
+    "exeUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.1.2-beta/Tripoint-pc-release.zip",
     "changelog":  "Windows launcher update",
     "force":  true
 }
