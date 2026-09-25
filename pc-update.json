@@ -1,8 +1,8 @@
 {
-    "versionName":  "4.0.46-beta",
-    "versionCode":  98,
-    "exeUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v4.0.46-beta/Tripoint-City.zip",
-    "setupUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v4.0.46-beta/Tripoint-City-Setup.exe",
+    "versionName":  "4.0.47-beta",
+    "versionCode":  99,
+    "exeUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v4.0.47-beta/Tripoint-City.zip",
+    "setupUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v4.0.47-beta/Tripoint-City-Setup.exe",
     "changelog":  "Windows launcher update",
     "force":  true
 }
