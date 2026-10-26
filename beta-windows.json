@@ -1,0 +1,8 @@
+{
+    "version":  "0.0.0.1",
+    "build":  1,
+    "url":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.1/Tripoint-City-Setup.exe",
+    "zipUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.1/Tripoint-City.zip",
+    "notes":  "Tripoint City 0.0.0.1 beta: new launcher for Android and Windows.",
+    "force":  true
+}
