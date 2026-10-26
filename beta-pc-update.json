@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.0.1.1-beta",
+    "versionName":  "1.0.1.2-beta",
     "versionCode":  1,
-    "exeUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.1/Tripoint-City.zip",
-    "setupUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.1/Tripoint-City-Setup.exe",
-    "changelog":  "Tripoint City 0.0.0.1 beta: new launcher for Android and Windows.",
+    "exeUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.2/Tripoint-City.zip",
+    "setupUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.2/Tripoint-City-Setup.exe",
+    "changelog":  "Launcher update",
     "force":  true
 }
