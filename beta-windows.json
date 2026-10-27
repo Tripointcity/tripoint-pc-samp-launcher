@@ -1,8 +1,8 @@
 {
-    "version":  "0.0.0.15",
-    "build":  15,
-    "url":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.15/Tripoint-City-Setup.exe",
-    "zipUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.15/Tripoint-City.zip",
+    "version":  "0.0.0.16",
+    "build":  16,
+    "url":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.16/Tripoint-City-Setup.exe",
+    "zipUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.16/Tripoint-City.zip",
     "notes":  "Launcher update",
     "force":  true
 }
