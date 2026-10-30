@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.0.1.56-beta",
+    "versionName":  "1.0.1.59-beta",
     "versionCode":  1,
-    "exeUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.56/Tripoint-City.zip",
-    "setupUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.56/Tripoint-City-Setup.exe",
-    "changelog":  "Home Play and Local OMP mode for owner PC",
+    "exeUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.59/Tripoint-City.zip",
+    "setupUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/v0.0.0.59/Tripoint-City-Setup.exe",
+    "changelog":  "Launcher update",
     "force":  true
 }
