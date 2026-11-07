@@ -1,8 +1,8 @@
 {
-    "version":  "0.0.1.123",
-    "build":  123,
-    "url":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/pre-v0.0.1.123/Tripoint-City-Pre-Setup.exe",
-    "zipUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/pre-v0.0.1.123/Tripoint-City-Pre.zip",
+    "version":  "0.0.1.124",
+    "build":  124,
+    "url":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/pre-v0.0.1.124/Tripoint-City-Pre-Setup.exe",
+    "zipUrl":  "https://github.com/Tripointcity/tripoint-pc-samp-launcher/releases/download/pre-v0.0.1.124/Tripoint-City-Pre.zip",
     "notes":  "Publish pre",
     "force":  true
 }
